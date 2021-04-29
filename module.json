@@ -1,0 +1,25 @@
+{
+    "name": "Default-Name",
+    "title": "Focus and Default Name",
+    "description": "Focus and with default name when create new Actor, item...etc",
+    "version": "1.0.0",
+    "author": "Sad",
+    "scripts": [
+        "./index.js"
+    ],
+    "styles": [],
+    "packs": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "socket": true,
+    "minimumCoreVersion": "0.6.2",
+    "compatibleCoreVersion": "0.7.9",
+    "url": "https://github.com/hktrpg/foundryVTT-unzipFiles",
+    "manifest": "https://raw.githubusercontent.com/hktrpg/foundryVTT-unzipFiles/master/module.json",
+    "download": "https://github.com/hktrpg/foundryVTT-unzipFiles/archive/main.zip"
+}
