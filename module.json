@@ -1,7 +1,7 @@
 {
-    "name": "Default-Name",
-    "title": "Focus and Default Name",
-    "description": "Focus and with default name when create new Actor, item...etc",
+    "name": "unzipFiles",
+    "title": "Unzip files",
+    "description": "Unzip files",
     "version": "1.0.0",
     "author": "Sad",
     "scripts": [
